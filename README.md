@@ -17,4 +17,4 @@ We want to make our Punks unique. Not only unique in the xDai ecosystem but also
 
 
 # First draft of a monkey punk
-A first draft of one of the Monkey Punks. 
+A first draft of one of the Monkey Punks. ![Monkey](https://github.com/xDaiPunks/xIP-000002/blob/main/drafts/monkey.png) 
