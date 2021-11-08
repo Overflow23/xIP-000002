@@ -1,16 +1,14 @@
 # Rationale
-xDaiPunks has the goal to become a NFT project that is fully owned and managed by a DAO. The process to become a DAO will be a gradual one. To kick-start this process, xDaiPunks will have to be a fully independent project with it's own unique Punks.
-
 This proposal is to adjust and improve the look and feel of our beloved Punks, while keeping their heritage alive.
 
-xDaiPunks is a project that lives on the xDai blockchain. As we have a strong bond with xDai, our Punks will need to reflect this.
+xDaiPunks is a project that lives on the xDai blockchain. As we have a strong bond with xDai, our Punks reflect this.
 
-The proposal for design changes already received positive response from the community. And the term "Bit-Shifting" was already coined (pun). What is "Bit-Shifting"? Currently our Punks are png files of 24x24 pixels. The idea is to Bit-Shift that to a higher resolutution. By doing so, we can create higher resolution Punks with more detail and more depth. It also allows our Punks to receive a nice tattoo of the xDai logo. We have the go-ahead of the community to create pixelated 3d xDaiPunks.
+The proposal for design changes already received positive response from the community. And the term "Bit-Shifting" was already coined (pun). What is "Bit-Shifting"? Currently our Punks are png files of 24x24 pixels. The idea was to Bit-Shift that to a higher resolutution. By doing so, we can create higher resolution Punks with more detail and more depth. We have  had the go-ahead of the community to create pixelated 3d xDaiPunks.
 
-The xDaiPunks will become unique. Not only unique in the xDai ecosystem but also unique in the entire NFT ecosystem. The 3d Punks are generated from a master model that will contain all attributes, types and skin colors. This 3d model is an open-source model. With this model,  
+The xDaiPunks are now unique. Not only unique in the xDai ecosystem but also unique in the entire NFT ecosystem. The 3d Punks are generated from a master model that will contain all attributes, types and skin colors. This 3d model is an open-source model. With this model, Punks owners can generate 3d renders of their Punk and much more 
 
 # Requirements
-- The xDaiPunks will need to be unique while keeping their heritage alive
+- The xDaiPunks need to be unique while keeping their heritage alive
 - Implementing Bit-Shifting
 - The xDaiPunks will stay pixelated
 - The xDaiPunks will be 3d models. For marketplaces PNG's and SVG's will be generated from these models.
