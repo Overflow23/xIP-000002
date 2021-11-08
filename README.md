@@ -23,7 +23,7 @@ The 3d xDaiPunks will become the basis of our community and will play an importa
 # Punks
 xDaiPunks have a ranking, a type and 0 to 7 attributes. Next to that they have a 3d render associated with them.
 
-The individual 3d renders can be found in the punks3d folder https://raw.githubusercontent.com/xDaiPunks/xIP-000002/main/punks3d
+The individual 3d renders can be found in the punks3d folder https://github.com/xDaiPunks/xIP-000002/tree/main/punks3d
 
 The ranks, types and attributes of all punks can be found in the punks.json file in the punkData folder. https://raw.githubusercontent.com/xDaiPunks/xIP-000002/main/punks/punks.json
 
